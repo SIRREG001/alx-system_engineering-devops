@@ -6,3 +6,4 @@
 5-listfilesdigitonly displays current directory contents
 6-firstdirectory creates a direcotry named my_first_direcotry in the /tmp/ directory
 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
+8-firstdelete deletes the file betty
