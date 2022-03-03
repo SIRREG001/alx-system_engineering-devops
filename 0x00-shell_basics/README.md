@@ -12,3 +12,4 @@
 11-lists lists all files even ones beginning with period characters, which are normally hidden in the current directory and the parent of the working directory and the /boot directory in long format
 12-file_type prints the type of file named iamafile
 13-symbolic_link creates a symbolic link to /bin/ls named _ls_
+14-copy_html copies all html files from the current working directory to the parent directory
